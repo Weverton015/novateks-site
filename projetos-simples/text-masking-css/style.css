@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}   
+
+body{
+    height: 100vh;
+    background: #151f28;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Archivo Black", sans-serif;
+    letter-spacing: 2px;
+   
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 20px;
+     width: 600px;
+    color: white;
+    background-size: cover;
+    background-image: url("./img.png");
+    aspect-ratio: 3/2;
+    font-size: 200px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}

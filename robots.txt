@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /projetos-simples/
+Disallow: /projetos-medios/
+Disallow: /projetos-complexos/
+
+Sitemap: https://novateks.online/sitemap.xml
